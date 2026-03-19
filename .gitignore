@@ -1,0 +1,20 @@
+# Real config (contains secrets)
+config.py
+.env
+
+# Runtime state
+aigf-core/data/*.json
+*.flag
+
+# Reference images (user provides their own)
+ref_small.jpeg
+ref.jpeg
+ref_voice_latest.mp3
+
+# Python
+__pycache__/
+*.pyc
+
+# Temp
+/tmp/
+*.log
