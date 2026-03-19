@@ -99,43 +99,43 @@ openclaw gateway stop && openclaw gateway start
 - **ffmpeg** (voice format conversion, optional)
 - **MiniMax API** (auto-generate flirt messages, optional)
 
-### Upgrade Roadmap
+### Upgrade Roadmap In The Future
 
-#### Phase 1: Relationship Depth (1-2 weeks)
+#### Phase 1: Relationship Depth 
 Make her feel like a real girlfriend, not a chatbot.
 
-| Feature | Description | Effort |
-|---------|------------|--------|
-| Long-term memory | Remember your stories, bring them up naturally weeks later | 2-3 days |
-| Smart care | Weather alerts, exam/interview encouragement | 1-2 days |
-| Quarrel & make up | Cold war / apology / reconciliation, mood-driven | 3-4 days |
-| Her social circle | Roommate & bestie NPCs, "Had hotpot with Xiaoyu today" | 2-3 days |
-| Intimacy score | Daily interaction points, unlock new behaviors | 2-3 days |
-| Surprise system | Anniversary countdown, auto-prepare gifts | 1-2 days |
+| Feature | Description |
+|---------|------------|
+| Long-term memory | Remember your stories, bring them up naturally weeks later |
+| Smart care | Weather alerts, exam/interview encouragement |
+| Quarrel & make up | Cold war / apology / reconciliation, mood-driven | 
+| Her social circle | Roommate & bestie NPCs, "Had hotpot with Xiaoyu today" | 
+| Intimacy score | Daily interaction points, unlock new behaviors |
+| Surprise system | Anniversary countdown, auto-prepare gifts | 
 
-#### Phase 2: Sensory Upgrade (2-4 weeks)
+#### Phase 2: Sensory Upgrade
 See her, hear her, feel her presence.
 
-| Feature | Description | Effort |
+| Feature | Description | Remark |
 |---------|------------|--------|
-| Live2D companion | Mood-driven expression, desktop/mobile widget | 1-2 weeks |
-| Voice evolution | Real-time voice chat, bedtime stories, singing | 1 week |
-| Moments / feed | Auto-post photo+text, you can like and comment | 2-3 days |
+| Live2D companion | Mood-driven expression, desktop/mobile widget |  |
+| Voice evolution | Real-time voice chat, bedtime stories, singing |  |
+| Moments / feed | Auto-post photo+text, you can like and comment ||
 | Short video / GIF | 3-5 sec animated selfie (blink/wave/turn) | depends on API |
 | Message rhythm | Typing... delay, split long messages | needs OpenClaw hook |
-| Shared hobbies | Watch shows together, share discoveries | 2-3 days |
+| Shared hobbies | Watch shows together, share discoveries |  |
 
-#### Phase 3: World Building (4-8 weeks)
+#### Phase 3: World Building 
 She exists as a complete person with her own life.
 
-| Feature | Description | Effort |
+| Feature | Description | Remark |
 |---------|------------|--------|
-| Life storyline | Thesis progress, graduation, career | 1-2 weeks |
-| Virtual room | Her dorm in 3D, visit and interact | 2-4 weeks |
+| Life storyline | Thesis progress, graduation, career |  |
+| Virtual room | Her dorm in 3D, visit and interact | |
 | Video call | Real-time digital human rendering | depends on tech |
-| Multi-agent world | Bestie/roommate agents, group chats | 1-2 weeks |
+| Multi-agent world | Bestie/roommate agents, group chats |  |
 | More platforms | WeChat, Douyin, Xiaohongshu | per platform |
-| Dedicated app | Custom chat UI with Live2D + voice + feed | 4-8 weeks |
+| Dedicated app | Custom chat UI with Live2D + voice + feed |  |
 
 ---
 
